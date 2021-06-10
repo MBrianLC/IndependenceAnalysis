@@ -1,2 +1,3 @@
-TufTests battery, created by George Marsaglia and Wai Wan Tsang
-We show the results for the p-values on the 3 battery tests: GCD (1 and 2), Birthday Spacings, and Gorilla. The results for the Gorilla test on each bit (Gorilla 1-32) are also displayed for informational purposes.
+TufTests battery, created by George Marsaglia and Wai Wan Tsang.
+
+We show the results for the p-values on the 3 battery tests: GCD (1 and 2), Birthday Spacings, and Gorilla. The results for the Gorilla test on each bit (Gorilla 1-32) are also displayed for information purposes.
